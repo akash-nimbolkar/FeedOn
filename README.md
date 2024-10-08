@@ -7,7 +7,6 @@ The Food Waste Management Platform connects restaurants with charities to reduce
 
 FeedOn is a web application serves as a dual platform for F&Bs and charities to connect with one another. It aims to minimize food wastage by redistributing excess food from F&Bs to charities. 
 
-Watch the live demo for the application <a href="https://www.youtube.com/watch?v=xlqRs-MqeXA&feature=youtu.be">here</a>, and view our team proposal <a href="https://github.com/anushadatta/FeedOn/blob/master/src/main/webapp/assets/FeedOn.pptx">here.</a> 
 
 ### MOTIVATION 
 
